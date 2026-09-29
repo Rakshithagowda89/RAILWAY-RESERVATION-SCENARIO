@@ -1,0 +1,4 @@
+train_id,train_name,source,destination
+1,Express1,Chennai,Madurai
+2,Express2,Coimbatore,Salem
+3,Express3,Madurai,Chennai

@@ -1,0 +1,6 @@
+booking_id,train_id,passenger_name,fare,status
+1,1,Janani,500.00,Confirmed
+2,1,Arun,500.00,Waiting
+3,2,Priya,300.00,Confirmed
+4,3,Karthik,450.00,Cancelled
+5,2,Meena,300.00,Confirmed
